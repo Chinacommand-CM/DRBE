@@ -1,0 +1,17 @@
+structure_block.title=建筑方块：保存请加前缀，临时项目请使用test作为名称	#
+structure_block.structure_name=请加前缀再使用	#
+action.hint.exit.minecart=点击“跳跃”离开列车	#
+action.hint.exit.console.minecart=按下 :_input_key.jump: 离开列车	#
+container.minecart=复兴号CR200J型矿车	#
+entity.minecart.name=复兴号CR200J型矿车	#
+entity.chest_minecart.name=复兴号CR200J型货运矿车	#
+entity.command_block_minecart.name=装载命令方块的复兴号CR200J型矿车	#
+entity.furnace_minecart.name=复兴号FXN机车牵引的矿车	#
+entity.hopper_minecart.name=装载漏斗并且被剥夺集便器的复兴号CR200J型矿车矿车	#
+entity.tnt_minecart.name=铁总狂喜型复兴号CR200J型TNT矿车	#
+item.minecart.name=复兴号CR200J型矿车	#
+item.chest_minecart.name=复兴号CR200J型货运矿车	#
+item.command_block_minecart.name=装载命令方块的复兴号CR200J型矿车	#
+item.minecartFurnace.name=复兴号FXN机车牵引的矿车	#
+item.hopper_minecart.name=装载漏斗并且被剥夺集便器的复兴号CR200J型矿车矿车	#
+item.tnt_minecart.name=铁总狂喜型复兴号CR200J型TNT矿车	#

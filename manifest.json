@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "DRBE材质现已支持新矿车模型与光线追踪部分贴图，建议使用支持DXR光线追踪的设备游玩",
+    "name": "DRBE材质包-1.1.2",
+    "uuid": "39acc47f-8071-4750-9b30-75c14dfd65dd",
+    "version": [ 1, 1, 2 ],
+    "min_engine_version": [ 1, 19, 0 ]
+  },
+  "modules": [
+    {
+      "description": "本版本为标准版（RTX），DRBE材质，制作者Chinacommand,qunae233，交流q群567810275",
+      "type": "resources",
+      "uuid": "78cc03b3-f09d-435f-b4ff-854723e4a2a9",
+      "version": [ 1, 1, 2 ]
+    }
+  ],
+  "capabilities": [
+    "raytraced"
+  ]
+}
